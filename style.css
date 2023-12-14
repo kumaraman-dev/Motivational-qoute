@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:black ;
+}
+img{
+    margin-top: 100px;
+    border: 5px solid white;
+}
+#h1{
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans NKo Unjoined', sans-serif;
+}
+#p{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
